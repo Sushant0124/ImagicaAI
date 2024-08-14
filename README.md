@@ -26,4 +26,4 @@ Image Generation Page
 Results Display
 ![Results Display](./images/result.png)
 ![Results Display](./images/result2.png)
-
+![Results Display](./images/final.png)
