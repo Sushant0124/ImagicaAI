@@ -1,4 +1,4 @@
-ImagicaAI
+<h1>ImagicaAI<h1>
 
 Overview
 ImagicaAI is a SaaS platform designed for generating high-quality images using the OpenAI API. This platform enables users to create stunning visuals by leveraging advanced AI algorithms. ImagicaAI is built on the MERN stack, ensuring robust performance and a seamless user experience.
@@ -17,8 +17,13 @@ API: OpenAI API
 
 Screenshots
 Home Page
+![Home Page](./images/home.png)
 
 
 Image Generation Page
+![Image Generation Page](./images/Createpage.png)
 
 Results Display
+![Results Display](./images/result.png)
+![Results Display](./images/result2.png)
+
